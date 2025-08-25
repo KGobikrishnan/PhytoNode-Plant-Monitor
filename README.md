@@ -10,9 +10,9 @@ A professional embedded systems project featuring an ESP32-based device that mon
 
 ## 📸 Media
 **<img width="1536" height="1024" alt="file_00000000b13c6230b0e2b6dc61169cd2" src="https://github.com/user-attachments/assets/b0764824-0f99-4455-8dc4-8febecdc4f82" />**
-- Image 1: The finished device next to a plant.
-- Image 2: The internal wiring (make it neat!).
-- Image 3: A screenshot of the ThingSpeak dashboard with your live data.
+- The finished device next to a plant.
+- The internal wiring (make it neat!).
+- A screenshot of the ThingSpeak dashboard with your live data.
 
 ## 🛠️ Hardware & Wiring
 - Microcontroller: ESP32 DEVKIT V1
